@@ -18,7 +18,5 @@
 <br/>핸즈온 머신러닝
 <br/>코드로 배우는 스프링 웹 프로젝트
 
-<!---
-dndkwk/dndkwk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<br/>나만의 작은 블로그(https://velog.io/@dndkwk)
